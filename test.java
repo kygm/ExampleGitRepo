@@ -8,6 +8,8 @@ public class test
     
     System.out.println("Test");
     
+    System.out.println("Second Test");
+    
     
     kb.next();
   }
